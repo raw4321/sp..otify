@@ -27,6 +27,9 @@ nav ul{
     width: 53px;
     padding: 0 8px;
 }
+h1 {
+    margin:10%;
+}
 .brand{
     display: flex;
     align-items: center;
