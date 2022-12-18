@@ -29,6 +29,7 @@ nav ul{
 }
 h1 {
     margin-left:8%;
+    color: #e3b778;
 }
 .brand{
     display: flex;
@@ -79,7 +80,7 @@ h1 {
     height: 50px;
     display: flex;
     /* width: 80%; */
-    background-color: white;
+    background-color: #f3eaaf;
     color: black;
     margin: 12px 12px;
     justify-content: space-between;
